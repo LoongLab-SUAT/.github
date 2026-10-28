@@ -9,9 +9,9 @@
   <a href="https://github.com/LoongLab-SUAT/.github/blob/main/profile/README.zh-CN.md">中文</a>
 </p>
 
-## About LoongLab
+## About Loong Lab
 
-**LoongLab** is a research group at **Shenzhen University of Advanced Technology (SUAT)**, led by **Dr. Jialong Li**. We study computer networks and distributed systems for AI infrastructure, with a focus on optical interconnects, reconfigurable data center networks, and coordinated compute–network resource allocation.
+**Loong Lab** is a research group at **Shenzhen University of Advanced Technology (SUAT)**, led by **Dr. Jialong Li**. We study computer networks and distributed systems for AI infrastructure, with a focus on optical interconnects, reconfigurable data center networks, and coordinated compute–network resource allocation.
 
 Our goal is to build high-performance, energy-efficient, and resilient networked systems for emerging compute-intensive applications.
 
